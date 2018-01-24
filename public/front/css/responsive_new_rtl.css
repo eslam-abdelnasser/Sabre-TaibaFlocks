@@ -1,0 +1,78 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) {
+  /*Start Home Page*/
+  .nav-tabs > li.active > a{
+     padding: 5px;
+  }
+  .nav-tabs > li > a{
+      padding: 5px;
+  }
+  .col-md-3.logo {
+    float: none !important;
+}
+  .col-md-6.email-phone{
+      margin-right: 0px;
+  }
+  ul.login-registration li:last-child{
+      margin-right: 0px;
+  }
+  /*End Home Page*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) {
+/*Start Home Page*/
+.col-md-3.logo {
+    float: none !important;
+}
+.nav-tabs > li > a{
+    padding: 5px;
+}
+.mr-img{
+    position: relative;
+    right: 200px;
+}
+/*End Home Page*/
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+   /*Start Home Page*/
+   .mr-img{
+    position: relative;
+    right: 300px;
+}
+.main-nav{
+    position: relative;
+    left: 80px;
+    padding-top: 100px;
+}
+.right-part, .contact-email, .contact-phone{
+        display: inline-table;
+    }
+    .col-md-6.email-phone{
+        position: relative;
+        top: 10px;
+    }
+    ul.login-registration{
+        position: relative;
+        top: 10px;
+    }
+    .featured-dest{
+        padding: 20px 20px 20px;
+    }
+   /*End Home Page*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+/*Start Home Page*/
+/*End Home Page*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    /*Start Home Page*/
+    
+    /*End Home Page*/
+}

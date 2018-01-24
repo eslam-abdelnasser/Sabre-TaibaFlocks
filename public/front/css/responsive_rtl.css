@@ -1,0 +1,77 @@
+
+
+
+@media (max-width:415px){
+    .right-part, .contact-email, .contact-phone {
+        display: block;
+    }
+    #wrapper{
+        overflow: hidden;
+    }
+
+    .col-md-6.email-phone{
+        margin-right: 41px;
+    }
+    ul.login-registration {
+        width: 61%;
+        display: inline-block;
+        margin-left: 41%;
+    }
+    span.top-link.small {
+        margin-left: 54px;
+    }
+    ul#main-menu li a {
+        color: white !important;
+    }
+    .full-width {
+        width: 100% !important;
+    }
+
+    .featured-btm.box-shadow1{
+        width: 146.3%;
+    }
+    .right-part.alignright {
+        padding-right: 49px;
+    }
+
+    div#page {
+        float: right;
+        width: 99%;
+    }
+
+    ul.nav.nav-tabs.text-upper >li {
+        width: 98%;
+        margin-bottom: 2px;
+    }
+}
+
+@media (max-width:325px){
+    .right-part, .contact-email, .contact-phone {
+        display: block;
+    }
+    .col-md-3.logo{
+        float: none;
+        text-align: center;
+    }
+    ul.login-registration {
+        width: 61%;
+        display: inline-block;
+        margin-left: 23%;
+    }
+    .col-md-6.email-phone {
+        margin-right: 5px;
+    }
+    span.top-link.small {
+        margin-left: -2px;
+    }
+    ul#main-menu li a {
+        color: white !important;
+    }
+
+    .sidebar-widget .nav-tabs > li{
+        width: 100.334%;
+    }
+    .full-width {
+        width: 100% !important;
+    }
+}

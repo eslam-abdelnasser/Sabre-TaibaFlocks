@@ -1,0 +1,218 @@
+body{
+    text-align: right;
+}
+.nav-tabs > li {
+  float: right !important;
+}
+#main-menu li{
+    float: right !important;
+}
+
+
+.col-md-3.logo{
+    float: right;
+}
+
+div#home > form > div > div {
+    float: right;
+}
+
+.flex-direction-nav{
+    left: 0 ;
+    right: auto !important;
+}
+
+
+a.ft-hotel.text-upper {
+    padding-left: -5px !important;
+    padding-right: 19px;
+    float: right;
+}
+
+.ft-hotel {
+    background: url(../img/icons/hotel.png) 0 center no-repeat;
+    background-position: right;
+}
+
+.pull-right {
+    float: left!important;
+}
+
+h4.ft-title.text-upper {
+    float: right;
+}
+.ft-offer{
+    float: left !important;
+}
+
+div.footer-overlay > div >div > section {
+    float: right !important;
+}
+
+
+.col-md-6.email-phone {
+    float: right;
+}
+
+.contact-email, .contact-phone{
+    float: right !important;
+}
+.header-social{
+    border-left: none !important;
+
+    border-right:  1px solid #292c2f;;
+
+}
+
+.login-registration{
+    float: left !important;
+}
+
+.top-link{
+    float: left !important;
+}
+
+ul.login-registration{
+    margin-right: 31%;
+    margin-left: auto ;
+}
+.alignright{
+    float: left !important;
+}
+.footer-menu li a{
+    border-right: none;
+    border-left: 1px solid #7c7c7c;;
+}
+
+.foot-boxs > div {
+    float: right;
+}
+
+/*.carousel{*/
+    /*pointer-events: none;*/
+/*}*/
+
+.nav-tabs > li{
+    margin-right: 6px;
+}
+
+div#header-banner > div > div > div > section {
+    float: right;
+}
+
+.breadcrumb {
+    float: left !important;
+
+}
+
+.breadcrumb li.home {
+    padding-left: 16px;
+    /*background: url(../img/icons/bc-home.png) 0 5px no-repeat;*/
+    background-position: right;
+    padding-right:  20px;
+}
+
+.breadcrumb li{
+    background-position: right;
+}
+
+div#page {
+    float: right;
+    width: 66%;
+}
+
+
+.main-contents > div >div >div {
+    float: right;
+}
+
+.main-contents > div >div >div
+> div{
+    float: right;
+}
+
+.main-contents >div > div >div
+>div >div{
+    float: right;
+}
+ul.nav.navbar-nav.navbar-right {
+    position: absolute;
+    top: -43%;
+    right: 20%;
+    left: auto;
+}
+ul.login-registration li:last-child {
+    margin-right: 10px;
+    margin-left: 0px;
+}
+ul.login-registration{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.tab-content.clearfix{
+    width: 100%;
+}
+
+.user-profile.ticket-test {
+    width: 100%;
+}
+
+div#carousel{
+    direction: ltr;
+}
+
+div#carousel >div {
+    float: none;
+}
+
+.lSSlideOuter{
+    direction: ltr;
+}
+.offer-box{
+    left: 30px;
+}
+
+.featured-btm.box-shadow1{
+    width: 97.3%;
+}
+
+.tour-plans > div {
+    float: none !important;
+}
+.book-now{
+    text-align: left;
+}
+
+div#signupbox {
+    float: right;
+}
+
+.margin-bank-option {
+    margin-right: 16.3%;
+    margin-left: 0px;
+}
+
+.option-bank li{
+    text-align: right;
+}
+
+.width_arabic {
+    float: none !important;
+}
+ 
+
+/*Khaled styles*/
+.nav-tabs > li {
+    margin-right: 6px !important;
+    float: right !important;
+    position: relative !important;
+    left: 46px !important;
+}
+.footer-overlay{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul.general-information{
+    padding-right: 6px !important;
+}

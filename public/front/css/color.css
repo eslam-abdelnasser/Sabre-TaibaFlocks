@@ -1,0 +1,142 @@
+/***** Theme Primary Color (Blue) ******/
+
+/* color */
+.nav-list li a,
+.owl-prev:hover,
+.owl-next:hover,
+.event-address i,
+.btn,
+.caption.style-1 h1,
+.lectures-list li .overlay.social-icons ul li a,
+.aristotle-heading h2,
+.top-bar.style-2 .topbar-left ul li,
+.top-bar.style-2 .search-bar a,
+.top-bar.style-2 .cart a,
+.lectures-column .overlay .social-icons ul li a,
+.filter-tags-holder ul li a.selected,
+.tc-breadcrumb li a,
+.pagination-holder ul li a,
+.nav-list li ul li a,
+.nav-holder.style-2 .nav-list li ul li a
+{ color: #13637c;}
+
+
+/* Background Color */
+.top-bar,
+.sperater i,
+.btn.white:hover,
+.owl-dot.active,
+.datepicker,
+.btn:hover,
+.f-courses-detail,
+.f-courses.active .name-tag,
+.news-column:hover .dates,
+.feature-column .feature-icon,
+.feature-column .feature-icon::before,
+.feature-column .feature-icon::after,
+.most-f-course-btm,
+.lectures-column .overlay .social-icons ul li a:hover,
+.long-batch,
+.event-grid-detail ul li i,
+.blog-detail-img .dates,
+.Category-list ul li span,
+.sec-nu,
+.course-reviews,
+.lecturers-column.style-4 .social-icons li a:hover,
+.tc-per,
+.tc-tab-nav li.active a,
+.icon-heading h4 i,
+.contact-info,
+.nav-list li ul li a:hover,
+.feature-service:hover .plus-icon
+{ background: #13637c;}
+
+/* Border Color */
+.sperater .active,
+.sperater::before,
+.sperater::after,
+.teacher-img,
+.btn,
+.btn::before,
+.btn::after,
+.lectures-column .overlay .social-icons ul li a:hover,
+.pagination-holder ul li a.active::before,
+.lecturers-column.style-4 .social-icons li a:hover,
+.tc-tab-nav,
+.event-detail-img h2::before
+{ border-color: #2d2b5e;}
+
+
+/* Background RGba Color Dark */
+.overlay-blue,
+.team-img .overlay-padding
+{ background: rgba(19, 99, 124, 0.88);}
+
+/* Background RGba Color Light */
+.event-column .overlay,
+.people-say.style-2 blockquote,
+.lectures-list li .overlay,
+.lecturers-column.style-3 .overlay,
+.gallery-figure .overlay
+{ background: rgba(18, 97, 128, 0.81)}
+
+/* Border Color Transparent */
+.tc-per::before{ border-color: #2d2b5e transparent transparent;}
+
+/****** Theme Primary Color (Blue) *****/
+
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 1*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+a,
+.color_primary,
+.rtd ul > li:before,
+.yamm .nav > li > a:hover,
+.footer-list__link:hover,
+.post_mod-a .entry-date,
+.post_mod-c .entry-date,
+.panel-default .panel-title,
+.accordion .panel-heading .panel-active,
+.breadcrumb > li .icon,
+.list-courses__number,
+.list-categories__link:hover .list-categories__name,
+.list-categories__link:hover .list-categories__number,
+.list-courses__meta .icon,
+blockquote:before,
+.about__title strong,
+.reviews__text:before {color: #e84c3d;}
+
+
+.bg-color_primary,
+.btn-header,
+.btn-primary,
+.find-course__title,
+.find-course .form-group {background-color: #e84c3d;}
+
+.btn-primary,
+.header.sticky .navbar,
+.staff .social-links li > a:hover {border-color: #e84c3d;}
+
+.find-course_mod-a .form-group:after,
+.staff:hover .staff__inner,
+.post:hover .entry-main,
+.nav-tabs > li {
+	border-top-color: #e84c3d;
+}
+.find-course_mod-b .form-group:after {
+	border-left-color: #e84c3d;
+}
+
+a:hover, a:focus {
+	text-decoration:underline;
+
+}
+.btn-primary {box-shadow: 0 4px 0 0 #941f12;}
+
+.btn-primary:after {background-color: #941F12;}
+
+.ip-header .ip-loader svg path.ip-loader-circle {
+	stroke: #e84c3d;
+}
+

@@ -1,0 +1,73 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) {
+    .ft-heading{
+        font-size: 20px;
+    }
+    .plan-tour{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .nav-tabs > li > a{
+        margin-right: 0px;
+        font-size: 16px;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) {
+    /*Start Home Page*/
+    .plan-tour{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .nav-tabs > li > a{
+        margin-right: 0px;
+        font-size: 16px;
+    }
+    /*End Home Page*/
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+    /*Start Home Page*/
+    .plan-tour{
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .nav > li > a{
+        padding: 5px 5px;
+    }
+    .left-part span, .right-part span{
+        width: 0;
+    }
+    
+    /*End Home Page*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*Start Home Page*/
+    #main-menu li{
+        margin-left: 5px;
+    }
+    .plan-tour{
+        padding-left: 0px;
+        padding-bottom: 115px;
+    }
+    /*End Home Page*/
+    
+    /*Start About*/
+    
+    /*End About*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    /*Start Home Page*/
+    
+    /*End Home Page*/
+    
+    /*Start About*/
+    
+    /*End About*/
+}

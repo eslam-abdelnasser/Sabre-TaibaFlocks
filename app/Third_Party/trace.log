@@ -1,0 +1,2265 @@
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 857
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 10c9b3eca9b3564c9b1be10ed9d1bd8e291b37e276fa6b30ba715813fc922bc2
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 171
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 786281167003cdd0456f7094c8ec3da16ee52b0206abca73dbdd1417236920b6
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 745
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 1dda700ab5b790bdfeeba5ecc146c456e89b20129c13b9b2e766b45ae51b3fdf
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 146
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => b9a608b9136217a5c71b1b6d865613fbfd5870ac6af1bc984886129ed675b3a8
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 799
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 3ae6b77e2ef934abdfb66cf5b52fc98da10999530e1d8eea5dd23008f40196ae
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 916
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 4ecae718c190ea460239233139ce4a5fd3ab09a99b369cf4d2333fad16667533
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 224
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 7d536d4d26bae202b35a160f05abdb220af13406e281db71b9c31ae2c31a5187
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 247
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => d46f917dde5c002f01e0b3bdfa6f489502d28b0eb46238ff5ef2e5baba5a0d6b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 756
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 7d6e5a5877292b0b535cf4dd1f56f07dc3b58885b4fff9b2addd909b132152c6
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 76
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 697e7d1cd7511b8d139be6713438249f2961372c5ce230b3fb557c4512ccb8f1
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 537
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 6204b2dfb9aece25738ec4d565ec11df98ae7c0c9bf05b2b3f4713e4a596c333
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 394
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 4320c62abfb75c3c5a2575297eda0277cac0f5ac3513dd33b0ad7e807ecbc1d2
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 815
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => bf94a8e86b012d03c1cbb4a35fc7902772912ef444aaf382773846441ca2d258
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 806
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 6f97b68c4784ba5d474cc933d2861f7267f165466fd6d6240b5857a4c9153954
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 524
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 80b160afe3684cc426e78570df8185f165a0f7f94db6cf75ddeac3241f0effa0
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 398
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => a719bd6313e8d95c6ea28905bff5a10adb8caabb3b6dd20002637745dc49040f
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 761
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => aed6ddc1ba113b54f54bf9f1d99e7acfbabed5c46d78ef10c333c5657e856b28
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 309
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 7d0983d53f9ac5a97f3a18d462eb37052d33775dc72b668168ed0d67aeebff65
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 313
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => fbe5feae5df81216be160dd016589c1a8056f65e7002493c17e12e0067af05a6
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 974
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e07dd29f0fac76029fb8037fd3d493b79f250781d5cc9a3c5c55f68a4f5dc048
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 630
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 97532954f457baf1f2823ea9fbd0c0cabe00345578be7a19b7e3be6e5ae0c5d9
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 954
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 59fa0209076b666a1b16be6fe7aab3cb3f5871e92bf80d2b91de3fdc9d524216
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 734
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => a3ada72730c8dec5c362a774140ea3033f04a3db3b25b9698e72ecb15e6266fe
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 688
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 6098b312275067273cf8ee10f182c475c6d7ddb9a1f0d9f731625a0deb665f28
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 943
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e3d39be0a60516cdf27d06ad9cdcdb5833ec5119555f08fd3759a894fd218435
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 908
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 696101ddfab39cc0076cf5f7fea30f144b840123559c2b044e006469b7da5611
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 778
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 9a53da5634265179a5c42ff1e9829a473e7355b7ef163eba49ca410fc9343b91
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 874
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 8548002f014fef15a2d4e8d1ff254e9228dd48957b645d7a2e6c6dd05e91e167
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 926
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => a6000d5256abc669a181d65084d76e1f5c9e28e6d36e1a3681575d704864c040
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 284
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 25609e0bbc477a0bd21ac4c0e0a29d30cf933783cb5c8b1295d977ee8e113564
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 837
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => fcdf17f09e6423f1ba71b881dc22269c93b066e9b5ce32eaccfc8008dca4d3c8
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 79
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 3ffcdf32c70aaa6ed6407ac56a83ea30744affa936386372f11c2dd7bc3cf564
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 967
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 64e313b103bb34cb8ec4b6cb91fd2d1de5365f15e6bb7ec9c533c9ef87d5230f
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 501
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e3a2fccdad70d2656724a18b1d7602a3f0ae9e79207b243c999529c05d09e5e6
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 663
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => cb93954e0b6ce59abb119500092ee8a787ad81ab0d3aec3751d09627ed89c6f5
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 467
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 07cb3549d2702072243ec05a766b4759a3f14806970675546d558da053384e51
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 307
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 8f61e7982480aa0356a64a6a87902738ffbb39eb79861b8507458f1e3403571a
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 83
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 1106948b88539ffcf39b9aec2060ef55347718b518701be8e30b240eeec74e65
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 342
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 8ef26b7964e1c568d3f5d8358696446ad2973525f681fddd0082c6e297203f6a
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 308
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => db757b0683ca85597e0571e271ad68e17c254c130e7c8163f3b8869a06a90f73
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 734
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => a3ada72730c8dec5c362a774140ea3033f04a3db3b25b9698e72ecb15e6266fe
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 251
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 38857787eab871678dce5ccd006e740eb462661dd78af12797b0f7bf5745083f
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 704
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 9f9d76ef00cc3ac5fadb9e3c72b1cc3bcf381f9a4e1fae4bba2b8128bd1f3cdd
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 884
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => c27b7c2a69ec0cd5a5ed7484cd36efcd291a7ff07b117d3983adc0a8b902e934
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 710
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => bd3d95bf81ea8f6f77615a7baf7ea10d24fda6e9253a2150d964cc647bd76ecf
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 646
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 4047fa472392111f99b860a38da3b90b121d05b5b9f12ca35feeffc09b64c8f0
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 829
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => ac1dfc03a155e6c8d10a5b69cfcba569a7b4d1879eb8c71cc044ec7f265124f6
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 720
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 09fe030ffd166dee482481accbe00aa4e3c86574b29ec596819eabe14ea31797
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 600
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 335ac011a69dc692efd94729dd5ed737381a8977493641e65841caefd1eb9f52
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 70
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 10bfe05356c548ede37b89d25e07cd9ee681bc59e9ee10a8ae84927deef0bd07
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 791
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => edb38a6f6b9951619729d9a017332a730e2e51570d5a4801b41d72287f598ae5
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 175
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 7f549b9e4e0e82da4247dee3acab657e3cd7f3068cf348a3b02e851b42880ca1
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 631
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 217fe0252b0280da680d30a6aa8378c6f29d56bb86c529c7ba049cdfa011368b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 20
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => caea71c14b26790383114e18b5afa79444d16a197cdfdaf489318d8efef69141
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 125
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 77dc42ac5dfa1c8f6b690200888a369060b29edd22639d09089fdefea06bb79e
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 85
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 68098da8408ec64c216573a0a22a46c16ca011ad4af49ed3a4c8f88c6a12cc84
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 760
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => b363fb8cdb57f21e6b9365f4c33f3f8417894c0f591bc6d96e38e37c369beb91
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 312
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 0f68d6a21e588810cfbf1d3f1c8ca8c06498c4033702c33919c3daaf419f1d8f
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 509
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 15a45dab0c29e3dd1c3fb248e6d477317836711ef4d915aaf157dd0d98f36dfa
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 859
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => d42a1fed78f6b35f7d24a2ed8266a30d5e880e71c5d8b926915d592477b57fa8
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 453
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 9f99a1ff2e1e25a1a68f598b4923cac8d248358a8f36242a228cffe200dffe1d
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 349
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 54b5411ae2383cb04150cf8c6d369bda07011d06282cf91a8eb77eeefd6f9d54
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 158
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 5b297bdefa96f6184670703cb9940fa81d9ed3695343f137382e9f052b67786c
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 419
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 0a59eb1be28408f2147cfd14458f2b32dc6017fe032160708f15a1efe42a0477
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 435
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => bc34fc14c3ac297a0dadf66c24c99bd4df885868415b7e47a87df4e8327701bf
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 535
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => c728f3e41749b9a917e2cd1fcaf6d558deef2e7ba5cb914a0fe73682d31178d9
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 513
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => a2876127b4589a1c6f5798cfd882bd45b62a9182e30b3e64272dd003538986f8
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 671
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 8f0935ce798a525f701cbfbbe7fd52a033d8e804280b3e27a78aff1f6e594009
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 747
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 51d30fc325df485da84ed048ffb231f27fab11fd8e0aab77cf33b236a7bec2ec
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 141
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => ab4aca4915e88afbc9520bcb3c7b727bd62ffc9bd7e0b758f6901fd7431d31e7
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 241
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => b12507d3d48c247e17d01754ff915b7890b22727fdc44e9247b4e987522e6fd9
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 240
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => b304e71e00594ec59f3855e65514a5bd25b3ad5a288f6b9fd3cf60aa1e788225
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 953
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 3dd24a9c148cd440206b4b425f403c9681e6db78300c1afbf90cb8a2f49e9e9b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 713
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => ff8b876e319daf999cfaadcd0760dab07e88e408b29012b07833dde299058b40
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 713
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 541D86AA134C6B11E053321E320AD135
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => 04d1c53c64ef6aa7203f71e3f24ce58bc4f18bfb5218d408f5c6cbd2c28550a7
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => tstst
+    [signature] => 88c6e0df75ce4b64fca464b2a9cc6bc95aaf55c0e44e57c38b6d1337b5cb197a
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150045555300013270
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=4sfeape63iu2itqakae0io6414&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 713
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 196
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 4c7fb62e2ff7be5330cab8c39048445af2400407e4e1446a0a61645b6902f193
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 196
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102550C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e9ea7fa95c73f54ccbb7249ba723c9b1d22ecac9d4b382ecbdc538ce802683ba
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => eslam
+    [signature] => 590beb5d99c03d10075fe4f5d154faef06cc1d36b06c6423a79a2bc4a617ccaf
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150088076000021313
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=hh4kjov9dkef7vo4h2g7k31jt2&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 196
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 196
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102550C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e9ea7fa95c73f54ccbb7249ba723c9b1d22ecac9d4b382ecbdc538ce802683ba
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 00007
+    [signature] => abbb4ef73e246fe66eed448b45f6df454f76e26dd6d763783199b118821f4fdd
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Duplicate order number
+    [merchant_reference] => 196
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 196
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102550C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e9ea7fa95c73f54ccbb7249ba723c9b1d22ecac9d4b382ecbdc538ce802683ba
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 00007
+    [signature] => abbb4ef73e246fe66eed448b45f6df454f76e26dd6d763783199b118821f4fdd
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Duplicate order number
+    [merchant_reference] => 196
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 196
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102550C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e9ea7fa95c73f54ccbb7249ba723c9b1d22ecac9d4b382ecbdc538ce802683ba
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 00007
+    [signature] => abbb4ef73e246fe66eed448b45f6df454f76e26dd6d763783199b118821f4fdd
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Duplicate order number
+    [merchant_reference] => 196
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 196
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102550C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => e9ea7fa95c73f54ccbb7249ba723c9b1d22ecac9d4b382ecbdc538ce802683ba
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 00007
+    [signature] => abbb4ef73e246fe66eed448b45f6df454f76e26dd6d763783199b118821f4fdd
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Duplicate order number
+    [merchant_reference] => 196
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 438
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => c2f28c6cf266971340e7f580d5d1a9f1f92755038449aaed8bd21cd4f7946250
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 438
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 550B4D6102590C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en
+    [signature] => eabdadc1befa3b0e17cde686d9bab44e6014d2c271a957475b79815c4dddd537
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => eslam
+    [signature] => d0c307b21e27c93c3c452219f84c12ac8a018c5e97c3f8da5ede61ff989456a8
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150088110100021321
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=q7tio0biut4io2puuo85ms7oa6&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 438
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 650
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => f29e7b444232aa01afb954bc9846c3bec7233f3afd1637e244f48bdce0d6525d
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 650
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 100000
+    [currency] => SAR
+    [customer_email] => smehdarai@tfcs.com.sa
+    [customer_name] => John Doe
+    [token_name] => 54C09E4C2AEF0C85E053321E320A4B25
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => e402ebc11382245e2aeb0718c60247831a9042371c223096697b569e6a90ce28
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 100000
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => eslam
+    [signature] => 3f2d5121e3497b0fde53984e974df59b7fe4fc5bd21b3453cc33245c1987f29e
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150088286600021429
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=fo9mj3k9tbd80ts9fkm6r7kne0&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 650
+    [customer_email] => smehdarai@tfcs.com.sa
+    [currency] => SAR
+    [customer_name] => John Doe
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 533
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => ee637816a2f61d0d1cbfbe318afb8a38a943675f0e442a50b250a8a583926b67
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 533
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 0
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => test@testtest.com
+    [token_name] => 541D72784F116B1DE053321E320ADD01
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => b9fa434e557b946720f968e50eb26b71c4336b954c7c8b313575714c551aa3fb
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 0
+    [response_code] => 00005
+    [signature] => e3ea4b5f3d7879f4b97230ea7de6883572f585b152f22a5bcc1bd6bb81ccc435
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid amount
+    [merchant_reference] => 533
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => test@testtest.com
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 426
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => d1cdc76bb741d4c4eadac1925330556d4b9cbadfe300a379a1c51615bb99e9f3
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 426
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 0
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => test@testtest.com
+    [token_name] => 541D356DD47C6B1FE053321E320A5641
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 83a0281d334f3a3dd77f67933f1adc851d835603720a1356f41172defe7cb66a
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 0
+    [response_code] => 00005
+    [signature] => f381562795e4d6d1a37be4db236bef56f618bb9454afd22352c70599a32e616d
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid amount
+    [merchant_reference] => 426
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => test@testtest.com
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 426
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 0
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => test@testtest.com
+    [token_name] => 541D356DD47C6B1FE053321E320A5641
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 83a0281d334f3a3dd77f67933f1adc851d835603720a1356f41172defe7cb66a
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 0
+    [response_code] => 00005
+    [signature] => f381562795e4d6d1a37be4db236bef56f618bb9454afd22352c70599a32e616d
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid amount
+    [merchant_reference] => 426
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => test@testtest.com
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 594
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 74322b479f4bcbc7211a52dc6876e8e05fd1b9c2cd422a4742536c855133d97a
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 366
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 66b42f2abd416713094039b1c5fb57a9baca57728451c8f31bb9882ec6af1399
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 658
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 67d2ff0e2cdf7b7951600247a5b1f1294809e8e3252f5a23b0212fff7b223cb5
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 433
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => cbcb7c5bd8bfdc3da8ef23719a718592191a7c994e9b87e30f94e18009493497
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 433
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 
+    [currency] => SAR
+    [customer_email] => 
+    [customer_name] => 
+    [token_name] => 54C0A6859D720C89E053321E320A97D7
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => a44e4f8696c528c36befe078757a6e7ec0ba650aad99e6a58e3456390ddd4f60
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [response_code] => 00008
+    [response_message] => Signature mismatch
+    [signature] => 369cf25809014560ed5494df47a8c90e5af4bc2913987e9575d8d3e7da3c5c20
+    [merchant_reference] => 433
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [currency] => SAR
+    [language] => en
+    [command] => AUTHORIZATION
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 952
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => ae9ffc2377d79b7ef81117cb603673f011988bdf381f960e49b20b36dff2892a
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 952
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 
+    [currency] => SAR
+    [customer_email] => 
+    [customer_name] => 
+    [token_name] => 54C09A67DEB60C8BE053321E320ACF3D
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 1cff2e6d18542e4a8637adfa0ff7d37ffd85acc95692e7a02e0d2110e8c49647
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [response_code] => 00008
+    [response_message] => Signature mismatch
+    [signature] => 4f8d91d6eae5b570a1321ed575ad114d86a0431528fcc70ce2ec8eb896627fdb
+    [merchant_reference] => 952
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [currency] => SAR
+    [language] => en
+    [command] => AUTHORIZATION
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 763
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 16eface49c405a68c10f75937bef94805b5b9e9b607ce78e76e75819ba3655e3
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 912
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 815153de793ace22b9848cfcc8a78a33ef038ae1ee7dada20ce2299baddbd1aa
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 285
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => ca1cb59dfc1fdbef6c845839280cf88d922f4f40bbd67ef329aa37a733595ec8
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 269
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => e9e4376743f4518273f79c9e1f6f0dee82bcd542df008979ad58b0b3670ca793
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 949
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 1239d8014873c370e22a120a4fbd07436c095a085b3c7470e23e49aa28ed74c7
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 850
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 3e68105db864e13655d67733852ab1eac37366b96ad329dd37b8bac4cfcb154b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 435
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 39453ce01a7c81e427625248808c5c231102779ef832d858aebe887efbb20b10
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 962
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 1a31f4c6df2bc3889b7812bf21560de704eadf917fa55b3ecaf6757f3fd10104
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 60
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 60b77197d0f347576f067b6b5ae3ee4abe9f6b9d92968ad59b10417ffa920e13
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 854
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => b74f1d6a5e4637a8b0d68ada6b5548817e11d35836f57b07c4167e8eb72a10ad
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 854
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 3800
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => test@testtest.com
+    [token_name] => 54C09E4C2B030C85E053321E320A4B25
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 3666abfe5b0098085c052022e203db9e412459a25a225fb5f775798831ef0a80
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 3800
+    [response_code] => 00002
+    [signature] => e7c929c0afade679054ff64bebd7af517babea9c34ae0ce3fe137b118f996edb
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid parameter format
+    [merchant_reference] => 854
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => test@testtest.com
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 764
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 62ae1f3ef674a3b78515d9a195e1f07d6a68d7bdfe56f1ae9e1e46f810946c36
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 764
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 3800
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => test@testtest.com
+    [token_name] => 541D72784F1E6B1DE053321E320ADD01
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 4ca856ea58edfae345ebc93288471208f8d013617a1691bf135ddb845e4b829b
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 3800
+    [response_code] => 00002
+    [signature] => 6880ed80233d117293c3071ea6b8aabe89f5a6bd661e557dae75f8b5aff934b9
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid parameter format
+    [merchant_reference] => 764
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => test@testtest.com
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 764
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 3800
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => hamada
+    [token_name] => 541D72784F1E6B1DE053321E320ADD01
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => d48e5c3d0030291c66077c3848c3a5c0e4af277be36226b542249cebc2cdef06
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 3800
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => eslam
+    [signature] => 6da1bd13dc5d2ee8a732af9238645fd540eb9d186a7a98601ba016654d27b2bf
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150088881900021806
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=eftkhn3pb294mpbiedu3q6t9d1&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 764
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => hamada
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 764
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 3800
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => hamada
+    [token_name] => 541D72784F1E6B1DE053321E320ADD01
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => d48e5c3d0030291c66077c3848c3a5c0e4af277be36226b542249cebc2cdef06
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 3800
+    [response_code] => 00007
+    [signature] => ced33e746e61d95e3567c8b637d38368b7b60f2901238acea86e38475f509e38
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Duplicate order number
+    [merchant_reference] => 764
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => hamada
+    [status] => 00
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 110
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => 1f2d419b4278e8ea48f0d615f012e4422f0dd3f0c08f7ba5b5cb782b642c075e
+)
+
+
+========================================================
+
+Fort Host2Host Request Parameters 
+Array
+(
+    [merchant_reference] => 110
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [command] => AUTHORIZATION
+    [merchant_identifier] => HkQfWtnx
+    [customer_ip] => 127.0.0.1
+    [amount] => 3800
+    [currency] => SAR
+    [customer_email] => test@testtest.com
+    [customer_name] => hamada
+    [token_name] => 550B4D61027A0C8DE053321E320AD6A6
+    [language] => en
+    [return_url] => http://127.0.0.1:8000/en/payfort-results
+    [signature] => 009ca72a41b82863cbf0ea55e5787ea520fa9dfcd5c8f86326e2b2b266f3f911
+)
+
+
+========================================================
+
+Fort Host2Host Response Parameters 
+Array
+(
+    [amount] => 3800
+    [response_code] => 20064
+    [card_number] => 400555******0001
+    [card_holder_name] => eslam
+    [signature] => 546a1c635a0ed65a0e9fefe90f9f6521ab7ac07fe2e598244d6035779d4e01a3
+    [merchant_identifier] => HkQfWtnx
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [expiry_date] => 2105
+    [payment_option] => VISA
+    [customer_ip] => 127.0.0.1
+    [language] => en
+    [eci] => ECOMMERCE
+    [fort_id] => 150088888200021815
+    [command] => AUTHORIZATION
+    [3ds_url] => https://testfort.payfort.com/secure3dsSimulator?FORTSESSIONID=6d2skqmc58qeiunpvt9vm7fq47&paymentId=5740559166725965820&DOID=C70BAA4D83511CCADAEC071226C925FB&o=pt&action=retry
+    [response_message] => 3-D Secure check requested
+    [merchant_reference] => 110
+    [customer_email] => test@testtest.com
+    [currency] => SAR
+    [customer_name] => hamada
+    [status] => 20
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [access_code] => fYRZo8SEtPZsQX10Cdeq
+    [language] => en
+    [merchant_identifier] => HkQfWtnx
+    [merchant_reference] => 453
+    [service_command] => TOKENIZATION
+    [return_url] => http://127.0.0.1:8000/en/payfort-feedback
+    [signature] => e92c1b1840cd94f470f4e436334694bea39a1da635621c8169b6052d392322c9
+)
+
+

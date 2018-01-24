@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Header>
+        <MessageHeader xmlns="http://www.ebxml.org/namespaces/messageHeader">
+            <From>
+                <PartyId>WebServiceClient</PartyId>
+            </From>
+            <To>
+                <PartyId>WebServiceSupplier</PartyId>
+            </To>
+            <CPAId>%ipcc%</CPAId>
+            <ConversationId>SWS-Test-%ipcc%</ConversationId>
+            <Service>SessionCreate</Service>
+            <Action>SessionCreateRQ</Action>
+            <MessageData>
+                <MessageId>9314594d-6c40-406b-9029-b887b13906b6</MessageId>
+                <Timestamp>%timestamp%</Timestamp>
+            </MessageData>
+        </MessageHeader>
+        <Security xmlns="http://schemas.xmlsoap.org/ws/2002/12/secext">
+            <UsernameToken>
+                <Username>%userName%</Username>
+                <Password>%password%</Password>
+                <Organization xmlns="">%ipcc%</Organization>
+                <Domain xmlns="">DEFAULT</Domain>
+            </UsernameToken>
+        </Security>
+    </soap:Header>
+    <soap:Body>
+        <SessionCreateRQ xmlns="http://www.opentravel.org/OTA/2002/11">
+            <POS>
+                <Source PseudoCityCode="%ipcc%"/>
+            </POS>
+        </SessionCreateRQ>
+    </soap:Body>
+</soap:Envelope>
