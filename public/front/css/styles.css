@@ -258,7 +258,7 @@ blockquote strong {font-size:16px;}
     float: left;
     height: 30px;
     line-height: 30px;
-    padding: 6px 10px;
+    padding: 0px 10px;
     width: 55%;
     background: none repeat scroll 0 0 #ECECEC;
     border: 0;
@@ -1084,9 +1084,10 @@ ul.general-information li a {
 
 
 .featured-btm.box-shadow1 {
-    position: absolute;
+    /* position: absolute;
     top: 384px;
-    width: 96.3%;
+    width: 96.3%; */
+    color:#fff;
 }
 
 .rm-margin{
