@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
+use App\Events\CustomerLoyalty;
 use App\User;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
@@ -96,7 +97,7 @@ class RegisterController extends Controller
             $user->mobile_number = $request->input('mobile_number');
 
             $user->save();
-
+//            event(new CustomerLoyalty($user ,70));
             session()->flash('message' , 'Registration Done Successfully'); 
          
 //           Mail::send('emails.welcome', ['user' => $user ], function ($m) use ($user) {
@@ -105,7 +106,7 @@ class RegisterController extends Controller
 
         $phone = ltrim($request->input('mobile_number'),0);
             Mail::to(trim($request->email))->send(new WelcomeToTaiba);
-        file_get_contents("http://ultramsg.com/api.php?send_sms&username=966508000653&password=123456&numbers=$phone&sender=966508000653&message=شكرا%20لتسجيلك%20معنا%20اسراب%20طيبة");
+            file_get_contents("http://ultramsg.com/api.php?send_sms&username=966508000653&password=123456&numbers=$phone&sender=966508000653&message=شكرا%20لتسجيلك%20معنا%20اسراب%20طيبة");
             // automatic login after registration 
             Auth::login($user);
 
