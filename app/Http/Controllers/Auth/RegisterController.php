@@ -97,7 +97,7 @@ class RegisterController extends Controller
             $user->mobile_number = $request->input('mobile_number');
 
             $user->save();
-//            event(new CustomerLoyalty($user ,70));
+            event(new CustomerLoyalty($user ,70));
             session()->flash('message' , 'Registration Done Successfully'); 
          
 //           Mail::send('emails.welcome', ['user' => $user ], function ($m) use ($user) {

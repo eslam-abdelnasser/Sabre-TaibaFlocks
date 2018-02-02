@@ -195,6 +195,7 @@
                                 <div class="input-field select col-md-3">
                                     <label>5. With Adults</label>
                                     <select id="adults">
+                                        <option value="0" selected>0</option>
                                         <option value="1">1</option>
                                         <option value="2">2</option>
                                         <option value="3">3</option>
@@ -207,6 +208,7 @@
                                 <div class="input-field select col-md-3">
                                     <label>6. With Kids</label>
                                     <select id="kids">
+                                        <option value="0" selected>0</option>
                                         <option value="1">1</option>
                                         <option value="2">2</option>
                                         <option value="3">3</option>

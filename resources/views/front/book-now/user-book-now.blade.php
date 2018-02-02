@@ -177,6 +177,14 @@
                     <input class="checkbox1" type="radio" name="checkbox" value="yes" checked="checked"> <label > yes <span></span> </label>
                     <input class="checkbox1" type="radio" name="checkbox" value="no" checked="checked"> <label > no <span></span> </label>
                 </div>
+
+                <div class="row">
+                        <div class="modal-body">
+                            <div class="col-md-12">
+                                <h3 id="calculate" class="hidden"></h3>
+                            </div>
+                        </div>
+                <div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-dismiss="modal" style="color: white" id="close_model">Close</button>
                 </div>
@@ -207,6 +215,9 @@
             $('.total-price').text("$" + total.toFixed(2));
             $('.total-price').val(total.toFixed(2));
 
+            var discount = total - ({{$general_settings->points}}   * {{Auth::user()->points}}) ;
+            $('#calculate').html('<p>'+discount +'</p>');
+
         }
 
 
@@ -217,7 +228,22 @@
                 
                 
                 $('.checkbox1').click(function () {
+
                     $('#points').val($(this).val());
+                    if($(this).val() == 'yes'){
+                        if(!$(".total-price").val() ){
+                            $('#calculate').html('<p>'+$(".total-price").val() +'</p>');
+                        }else{
+
+                            var discount = parseFloat($('#total-price-package').val()) - ({{$general_settings->points}}  ) * ({{Auth::user()->points}}) ;
+                            $('#calculate').html('<p>'+ discount +'</p>');
+                            $('#calculate').removeClass('hidden');
+
+                        }
+
+                    }else{
+                        $('#calculate').html('');
+                    }
 
                 })
 //        alert('hello');
